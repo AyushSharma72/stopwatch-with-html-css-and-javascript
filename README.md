@@ -1,6 +1,15 @@
 # stopwatch-with-html-css-and-javascript
 A stopwatch using html css and javascript  it also have darkmode and a progress bar  feature
 
+html code -> html.txt
+code for light mode -> lightcss.txt
+code for dark mode(default mode) -> darkcss.txt
+code for javascript -> javascript.txt
+whole code togrther -> stopwatch.txt
+
+
+
+
 output:
 
 
